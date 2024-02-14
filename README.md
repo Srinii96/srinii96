@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! I'm Srini</h3>
+# <h3 align="center">Hi 👋! I'm Srini</h3>
 
 ## 👨🏻‍💻 About Me
 - 🕸️ Passionate about the Web (WWW) and I yearn to simplify web for everyone.
