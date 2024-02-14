@@ -1,9 +1,9 @@
-# <h3 align="center">Hi 👋! I'm Srini</h3>
+## <h3 align="center">Hi 👋! I'm Srini</h3>
 
-## 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 - 🕸️ Passionate about the Web (WWW) and I yearn to simplify web for everyone.
-- 🔭 Currently working on Full Stack (AWS, MongoDB, Express.js, React, Node.js).
-- 🌱 Learning more about technologies that go into building Full Stack Applications.
+- 🔭 Currently working on Full Stack (MongoDB, Express.js, React, Node.js).
+- 🌱 Learning more about technologies that go into building WEB & Mobile Full Stack Applications.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
 ###
