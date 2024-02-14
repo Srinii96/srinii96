@@ -1,12 +1,14 @@
 ## <h3 align="center">Hi 👋! I'm Srini</h3>
 
 ### 👨🏻‍💻 About Me
+
 - 🕸️ Passionate about the Web (WWW) and I yearn to simplify web for everyone.
 - 🔭 Currently working on Full Stack (MongoDB, Express.js, React, Node.js).
 - 🌱 Learning more about technologies that go into building WEB & Mobile Full Stack Applications.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
 ### 🛠 Tech Stack
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -33,7 +35,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
-### Connect with Me
+### 🤝🏻 Connect with Me
+
 <div align="left">
   <a href="k.s.nivas39@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
