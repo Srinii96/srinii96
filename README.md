@@ -7,7 +7,6 @@
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
 ### 🛠 Tech Stack
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -34,8 +33,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
-###
-
+### Connect with Me
 <div align="left">
   <a href="k.s.nivas39@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
