@@ -6,7 +6,7 @@
 - 🌱 Learning more about technologies that go into building WEB & Mobile Full Stack Applications.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 
-###
+### 🛠 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
